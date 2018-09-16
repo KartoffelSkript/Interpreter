@@ -1,2 +1,2 @@
 # KartoffelSkript
-Die einzig wahre deutsche Programmiersprache
+Die einzig wahre deutsche Programmiersprache!
